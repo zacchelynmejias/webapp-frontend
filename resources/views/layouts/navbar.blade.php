@@ -6,8 +6,8 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ms-auto my-2 my-lg-0">
                 <li class="nav-item"><a class="nav-link" href="#announcement">Announcement</a></li>
-                <li class="nav-item"><a class="nav-link" href="#services">About Us</a></li>
-                <li class="nav-item"><a class="nav-link" href="#about us">Services</a></li>
+                <li class="nav-item"><a class="nav-link" href="#about us">About Us</a></li>
+                <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
                 <li class="nav-item"><a class="nav-link" href="#location">Location</a></li>
             </ul>
         </div>
