@@ -22,7 +22,8 @@
         <link href="css/styles.css" rel="stylesheet" />
         <!-- Social Media Logos-->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    </head>
-    <body id="page-top">
+   
+        <body id="page-top">
        
         @include('layouts.navbar')
         
